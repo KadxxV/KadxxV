@@ -1,4 +1,3 @@
-# Présentation de Maël Court
 
 ##  À propos de moi
 Salut ! Je suis **Maël Court**, étudiant en 3ème année du BUT Informatique à l'IUT du Limousin.
