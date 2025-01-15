@@ -1,7 +1,7 @@
 <!---![Background Image](https://github.com/ArkAow/ArkAow/blob/main/ImgLastmanProfileBanner.jpg?raw=true)-->
 
 
--  Bonjour, je suis Maël Court
+-  Bonjour, je suis Maël Court et je suis en 3ème année de BUT Informatique.
 -  Je m'intéresse a l'informatique plus dans la programmation
 -  J'apprend actuellement :
 
