@@ -2,7 +2,7 @@
 
 
 -  Bonjour, je suis Maël Court et je suis en 3ème année de BUT Informatique.
--  Je m'intéresse a l'informatique plus dans la programmation
+-  Je m'intéresse a l'informatique plus précisément dans la programmation
 -  J'apprend actuellement :
 
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
