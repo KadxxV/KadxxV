@@ -54,9 +54,9 @@ Salut ! Je suis **Maël Court**, étudiant en 3ème année du BUT Informatique �
 ---
 
 ##  Projets
-- Leverger  
-- Module pour Legrand  
-- Création du réseau d'une entreprise  
+- Leverger : Jeu de société. 
+- Module statistique pour Legrand : Module permettant de visualiser des statistiques sur des données sous la forme de dashboard. 
+- SAE réseau : Création du réseau d'une entreprise.
 
 ---
 
