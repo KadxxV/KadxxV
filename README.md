@@ -47,6 +47,13 @@ Salut ! Je suis **Maël Court**, étudiant en 3ème année du BUT Informatique �
 
 ---
 
+##  Expériences Professionnelles
+- **Stage de 10 semaines à la DSI de l’université de Limoges**  
+  - Administration systèmes et réseaux  
+  - Développement backend et gestion de bases de données  
+
+---
+
 ##  Projets
 - Leverger  
 - Module pour Legrand  
